@@ -182,7 +182,5 @@ AIML Student
 ---
 
 ##  Contact
-
-GitHub: https://github.com/Navya2516
 LinkedIn: https://www.linkedin.com/in/navya-saravanan-8aa481311
 
