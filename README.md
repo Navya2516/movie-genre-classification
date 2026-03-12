@@ -79,11 +79,8 @@ Steps performed:
 
 ##  Model Performance
 
-Validation Accuracy:
+Validation Accuracy:58%
 
-```
-≈ 58%
-```
 
 The dataset contains **multiple genres and significant class imbalance**, where some genres appear far more frequently than others. This makes the classification problem more challenging.
 
